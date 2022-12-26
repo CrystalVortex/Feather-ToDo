@@ -15,7 +15,7 @@ mark - Marks a note as done (deletes it) </br>
 Download and install [python](https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe) </br>
 Clone the repository or download it. </br>
 unzip it into a folder. </br>
-run installer.bat </br>
-open FeatherToDo.py </br>
+run installer.bat. </br>
+open FeatherToDo.py. </br>
   
 </strong>
