@@ -1,7 +1,7 @@
 <strong>
 
 # Feather-ToDo 📄
-A simple To Do CLI
+A simple To Do CLI which only uses about 0.5mb of ram.
 
 # Usage ⌨️
 Simply type in any of these words:
